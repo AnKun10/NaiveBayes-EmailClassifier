@@ -11,3 +11,5 @@ F
 model/preprocessing.py,d\7\d7d7ed18dd055c1f6729e92324564034e4652518
 >
 model/train.py,f\d\fd2d21c698d33ebf5b5bbf856c9e17198ddfd79b
+>
+model/model.py,7\b\7bf117c69438621e18027fbcaa88fbebe89e9f47

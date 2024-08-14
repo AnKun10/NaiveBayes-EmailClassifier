@@ -1,5 +1,6 @@
 from sklearn.naive_bayes import GaussianNB
-from model.preprocessing import *
+from model.preprocessing import preprocess_text, create_features
+import numpy as np
 
 
 def train(X_train, y_train):

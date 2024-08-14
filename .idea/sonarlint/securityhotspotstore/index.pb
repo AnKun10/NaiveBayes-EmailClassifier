@@ -5,3 +5,9 @@ K
 .github/workflows/build.yml,f\e\fe77d5d1439f26e353a42bbd38dece2467ff6558
 H
 sonar-project.properties,2\5\2538046035efb77ecc44e1fd2eec1e2641594d4c
+7
+main.py,f\1\f1bdda93d9a278e358509d498e17d97764c1fb29
+F
+model/preprocessing.py,d\7\d7d7ed18dd055c1f6729e92324564034e4652518
+>
+model/train.py,f\d\fd2d21c698d33ebf5b5bbf856c9e17198ddfd79b

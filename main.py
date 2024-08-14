@@ -1,5 +1,4 @@
-from model.model import *
-import nltk
+from model.model import train, predict
 import pandas as pd
 import numpy as np
 
